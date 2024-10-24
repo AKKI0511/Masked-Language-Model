@@ -31,7 +31,7 @@ To use the tool, you need to have the following installed:
 You can install all the dependencies using the following command:
 
 ```bash
-pip install tensorflow transformers Pillow scikit-learn shap
+pip install -r requirements.txt
 ```
 
 ## Getting Started
